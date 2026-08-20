@@ -1,0 +1,12 @@
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+opencv-python-headless
+scikit-image
+scipy
+pandas
+statsmodels
+numpy
+scikit-learn
+matplotlib
